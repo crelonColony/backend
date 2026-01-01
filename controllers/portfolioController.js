@@ -2,7 +2,7 @@ import path from "path";
 import fs from "fs";
 import PDFDocument from "pdfkit";
 import User from "../models/User.js";
-import Portfolio from "../models/portfolio.js";
+import Portfolio from "../models/Portfolio.js";
 
 // Create or update student portfolio
 export const savePortfolio = async (req, res) => {
@@ -72,3 +72,4 @@ export const generateResumePDF = async (req, res) => {
     res.status(500).json({ msg: err.message });
   }
 };
+
