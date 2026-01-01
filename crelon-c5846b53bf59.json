@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crelon",
+  "private_key_id": "c5846b53bf59c50836f000695e887da593e0e5e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHF+CLqTIPCiaU\nGb93R0Gwxd8NqYdxofOSQA40wkO0b/rGuLZRYC+LismsukhWMwaOMjdJWNfy3T0j\n0lAmb7Wz8Vwdz8tik8/lLYk0zGemQ2U+Eiqf0P4dcUWI+zXnrdlp1GpGV6vP5SMr\nGT40p+e3qX9vV2ijyUuTKCXDvuZtuAyBBA0qKSU/54uEvmCRKmwn2yhdaijG8g9U\nF4XckNzeAIUxVQJHYfTl/9o5j1zlVj+Sp6csQLaqnlfWJ/8ceplm/aUythNWEdua\nPXfzDBwB+jv6plxf0X/dkXsyllg3bZvOkPsyGUZtFRDr6HdrMMTmZf3TLr8bI7/v\nRn7uuF0FAgMBAAECggEAQgWsBARuwkgGdRR4xvBNW3ayulAex1MCd9xgGaTWWO7N\nhbrZUvEHs0mqCWqY9GTlZqBGbz9UFYjCbq+evrBK3EpM1uICu0TzKzfHiUfDk4JD\n/6p8khT3QAJBIeTUgmjHcW3sdDk8k6uT1wX+9+06TVCbHuwomi/1rO4iX+Bdf8J0\nPpfh8TA90vxk7IH2BuBb58NNQXzwHvI7pHi8mjBSHGQNkUMe853qBOc6pM5mOAWY\nwnvHHOJwJ8YhcYdtVHjvUln7688jAbvNo2Ezer/XbLO9EVM82DajDiUwPiMUUUsN\naE/tfHG9w7xT3FbXDpaw3lTy99B9cOnOAtCk0ECenQKBgQDjNIwaK0rEiMsBTNN6\nXsfNuFJwHLly2UJUkdXAyqgS2qT+uF/Po58w7Jjq+BSXw5BhhU1ElO9c28Euywu8\n7nR3Ac3i+ny67oaZa8gsFpbtKpWsCPktWKUy3PvHYAI9BYqvgjVaNijGYhp776R+\nrsXgeM3rrVjqPwEBpA2YVADFRwKBgQDgU0ODXLNZCFDIQuKuxur9nHU8jHnk8Ovt\nPJes71yKfZn0yDl64qb1dhhWJdI7MOxdYrwrhtgC9OVeMhn5mMbeu0EkSPAsolAx\nT7OKOLKlOpuuMU4HQXaW/aMXSIhqcRcDxSmmzHpW3liM5Z4OIkzEZl0ZnmEke74d\nDRopQMPhUwKBgHL6K5AuqlaM1xagV0DM6BXOGkHL93kMQwnjByXaKHXqGachjLLa\nHXw3rybxRhKLD+yZ9cEoEX2PY9KXRChnD58N1a/wjOBYRtsq9RCCmfwJGdcGb3qo\nKmlz9SIvDtLslAM/RFqTn8zM5pQjcL3/Gfn/iE2k2qMoIQ1AhPS6Re2PAoGBAKMJ\nAOVlJ1gK6iNSMUwTeFCQOMij1CenTeDjC919LcXdmVpFdzkvp2Z4ySE7ZbrtSKxq\niRYdb7teX6GBSk2UUt0oPSTw+dWGtj/QjE1l/biGiwUkAnDVjCoa90CBz9uEi9SK\npEX9EOE3wiXM8H2XQjHvr7Rh3npUkQyuLBhVYMfPAoGAMwm6EmnvTU8F1ykPtNo8\nLL6L+31M/QJ2k6cAziL4tLIAhG4U5PMxVFLdoNUUQfaKaRlW+QUCWshhrPiwsxXI\nnZV9b6aY0Rljhs6aK2Y/+7BkzPIly4Ei9JZLCqJ4XgbbI7I2+aghN4+YqOgg2yhC\nHLGRkIcvrUBjgJU4FmZfUjU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "crelon@crelon.iam.gserviceaccount.com",
+  "client_id": "117550252140332070904",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crelon%40crelon.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
